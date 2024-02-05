@@ -17,3 +17,6 @@ This node starts the graphical user interface to control all the corresponding m
 
 # Next we start rviz2 to visualise our robot
 
+![running(state, joint, rviz2)](https://github.com/kmlingaudhaya/launch_file/assets/134930329/48ac19b4-6ceb-4b3d-b803-8b1ee8096c12)
+
+Further we add the plug in RobotModel and change the description topic to robot_description where the robot model is being published.
