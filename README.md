@@ -20,3 +20,13 @@ This node starts the graphical user interface to control all the corresponding m
 ![running(state, joint, rviz2)](https://github.com/kmlingaudhaya/launch_file/assets/134930329/48ac19b4-6ceb-4b3d-b803-8b1ee8096c12)
 
 Further we add the plug in RobotModel and change the description topic to robot_description where the robot model is being published.
+
+
+# So basically to start a simple robot we need three terminals to publish
+ 1) Robot State
+ 2) Joint State
+ 3) And open the visualiser to see the output
+
+And as the complexity increases the no of parameters to be tweaked will also increase and we will be needing many terminal windows to launch the bot.
+
+Now in a launch file we will combine all these things and launch the robot with a single command
