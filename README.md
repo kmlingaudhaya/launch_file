@@ -14,3 +14,6 @@ This is a general purpose node developed to publish the urdf model of any robot 
 
 
 This node starts the graphical user interface to control all the corresponding movable joints in our robot
+
+# Next we start rviz2 to visualise our robot
+
