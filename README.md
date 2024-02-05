@@ -8,7 +8,7 @@ How to write a launch file for a robot to visualise it
 
 This is a general purpose node developed to publish the urdf model of any robot published to a certain ros2 topic
 
-# Next we start the joint_state_publisher_gui node dispaly the gui controls of the movable joints.
+# Next we start the joint_state_publisher_gui node to dispaly the gui controls of the movable joints.
 
 ![running_joint_state_publisher](https://github.com/kmlingaudhaya/launch_file/assets/134930329/4c1a23af-35e5-4822-be6e-d434a720b58a)
 
